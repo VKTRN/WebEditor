@@ -1,0 +1,26 @@
+{
+  "name": "react_template",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "codemirror": "^5.57.0",
+    "react": "^16.13.1",
+    "react-codemirror2": "^7.2.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "3.4.3",
+    "sass": "^1.49.7"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "browserslist": {
+    "development": [
+      "last 1 chrome version"
+    ]
+  }
+}
